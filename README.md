@@ -31,7 +31,10 @@ There are only four main steps to create a pencil sketch image in Python.
 I used the image of my favourite football play Lionel Messi⚽ for this project.
 
 
-### Task 04: Prediction using Decision Tree Algorithm for Iris Dataset
+### Task 04: Exploratory Data Analysis on Dataset-Terrorism 
+
+
+### Task 05: Prediction using Decision Tree Algorithm for Iris Dataset
 
 1. A decision tree is a supervised ML model in which data is continually partitioned based on specific parameters before making a decision.
 2. The necessary libraries are imported, followed by the data loading. The following goal is to extract the properties and targets. The train test split function has been imported and used.
