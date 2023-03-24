@@ -18,6 +18,7 @@ There are three species of Iris Flower: Iris-Setosa, Iris-Versicolor, and Iris-V
 1. LSTMs are commonly used to solve sequence prediction issues. They preserve crucial knowledge from the past, making it incredibly effective. It consists of three gates: an input gate, a forget gate, and an output gate.
 2. Like with any other model, data is loaded initially, then train and test splits are conducted, followed by data pre-processing. Then there's the LSTM application, prediction, and conclusion.
 
+Dataset Link: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 ### Task 03: Image to Pencil Sketch with Python
 
